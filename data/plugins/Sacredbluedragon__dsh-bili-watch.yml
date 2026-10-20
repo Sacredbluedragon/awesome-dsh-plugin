@@ -1,0 +1,6 @@
+url: https://github.com/Sacredbluedragon/dsh-bili-watch
+name: Sacredbluedragon/dsh-bili-watch
+category: tools
+description:
+  en: 'Reads Bilibili video content as text for DSH agents: metadata, subtitles, ASR, frame OCR, comments and danmaku.'
+  zh: '把 B 站视频内容读成文本：元数据、字幕、本地转写、抽帧 OCR、评论与弹幕。'
